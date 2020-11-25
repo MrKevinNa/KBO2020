@@ -1,21 +1,18 @@
 Package: KBO2020
-Title: KBO Hitters and Pitchers' Stats in 2020
+Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "DrKevin",
-           family = "Na",
+    person(given = "First",
+           family = "Last",
            role = c("aut", "cre"),
-           email = "drkevin2022@gmail.com",
-           comment = c(ORCID = "0000-0003-4132-4784"))
-Description: KBO Hitter and Pitchers' Stats in 2020
-License: CC BY 4.0
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Imports: 
     tibble
-URL: https://github.com/MrKevinNa/KBO2020
-BugReports: https://github.com/MrKevinNa/KBO2020/issues
-Depends: 
-    R (>= 2.10)

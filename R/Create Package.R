@@ -11,6 +11,7 @@ create_package(path = 'KBO2020')
 use_roxygen_md()
 use_tibble()
 use_package_doc()
+use_tibble()
 
 # 현재 폴더에 git 사용
 use_git()
@@ -49,6 +50,7 @@ use_r(name = 'pitchers')
 # Build 탭으로 이동!
 # More > Document 메뉴 클릭!
 
+devtools::document()
 
 ## End of Document
 
