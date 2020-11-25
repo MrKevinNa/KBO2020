@@ -48,7 +48,11 @@ use_r(name = 'hitters')
 use_r(name = 'pitchers')
 
 # 패키지에 필요한 문서 생성
-devtools::document()
+library(devtools)
+# document()
+# check()
+
+
 
 
 ## End of Document
