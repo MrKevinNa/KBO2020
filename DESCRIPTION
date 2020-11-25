@@ -8,8 +8,7 @@ Authors@R:
            email = "drkevin2022@gmail.com",
            comment = c(ORCID = "0000-0003-4132-4784"))
 Description: KBO Hitter and Pitchers' Stats in 2020
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
