@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of KBO2020 is to provide KBO Hitters and Pitchers' stats.
+The goal of KBO2020 is to provide KBO stat data.
 
 ## Installation
 
@@ -41,3 +41,4 @@ This is a basic example which shows you how to solve a common problem:
 ```{r example}
 # library(KBO2020)
 ```
+

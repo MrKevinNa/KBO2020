@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-The goal of KBO2020 is to provide KBO Hitters and Pitchers’ stats.
+The goal of KBO2020 is to provide KBO stat data.
 
 ## Installation
 

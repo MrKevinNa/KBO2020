@@ -47,10 +47,9 @@ use_data(pitchers)
 use_r(name = 'hitters')
 use_r(name = 'pitchers')
 
-# Build 탭으로 이동!
-# More > Document 메뉴 클릭!
-
+# 패키지에 필요한 문서 생성
 devtools::document()
+
 
 ## End of Document
 
