@@ -4,12 +4,12 @@
 \name{KBO2020-package}
 \alias{KBO2020}
 \alias{KBO2020-package}
-\title{KBO2020: What the Package Does (One Line, Title Case)}
+\title{KBO2020: KBO Hitters and Pitchers' Stats in 2020}
 \description{
-What the package does (one paragraph).
+KBO Hitters and Pitchers' Stats in 2020
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
+\strong{Maintainer}: DrKevin Na \email{drkevin2022@gmail.com} (\href{https://orcid.org/0000-0003-4132-4784}{ORCID})
 
 }
 \keyword{internal}

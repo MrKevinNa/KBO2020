@@ -1,5 +1,5 @@
 Package: KBO2020
-Title: KBO Hitters and Pitchers' Stats in 2020
+Title: KBO Hitters and Pitchers Stats in 2020
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "DrKevin",
